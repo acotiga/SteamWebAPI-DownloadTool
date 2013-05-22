@@ -8,7 +8,7 @@ GENERAL USE
   https://api.steampowered.com/IDOTA2Match_570/GetMatchHistory/V001/?key=<key>&format=XML
   
 - You also have to set a desired output directory. Basically, any folder on your computer to 
-  which you have write priviledges.
+  which you have write privileges.
   
 - Once those fields are set, press the 'Download' button and the program will attempt to parse
   the given Match History XML file for Match IDs and then query the Steam Web API for Match
